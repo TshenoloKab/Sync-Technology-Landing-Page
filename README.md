@@ -4,8 +4,7 @@ A responsive SaaS landing page built with HTML5 and CSS3.
 
 
 ## 🚀 Live Demo
-👉 https://tshenolokab.github.io/sync-technology-landing-page/
-
+👉 [View Live Site](https://TshenoloKab.github.io/sync-technology-landing-page)
 
 ## 📦 Features
 - Clean and modern design
